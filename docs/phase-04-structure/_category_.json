@@ -1,0 +1,10 @@
+{
+  "label": "Phase 4 — Structure & Best Practices",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 4 — Structure & Best Practices",
+    "description": "Move from one-file scripts to maintainable apps: layered structure, config, centralized errors, validation, and logging."
+  }
+}

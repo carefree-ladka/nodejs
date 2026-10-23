@@ -1,0 +1,10 @@
+{
+  "label": "Phase 7 — Testing",
+  "position": 8,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 7 — Testing",
+    "description": "Confidence to change code without fear: unit, integration, and end-to-end tests for Express APIs."
+  }
+}

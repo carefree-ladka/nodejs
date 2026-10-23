@@ -1,0 +1,10 @@
+{
+  "label": "Phase 0 — JavaScript Foundations",
+  "position": 1,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 0 — JavaScript Foundations",
+    "description": "Before touching Node, get comfortable with modern JavaScript. Weak fundamentals are the #1 reason backend code gets messy."
+  }
+}

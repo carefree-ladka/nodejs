@@ -1,0 +1,10 @@
+{
+  "label": "Phase 1 — Node.js Fundamentals",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 1 — Node.js Fundamentals",
+    "description": "Understand the runtime that Express sits on top of: the event loop, modules, core built-in modules, and npm."
+  }
+}

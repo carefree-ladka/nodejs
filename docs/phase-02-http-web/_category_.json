@@ -1,0 +1,10 @@
+{
+  "label": "Phase 2 — HTTP & Web Fundamentals",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 2 — HTTP & Web Fundamentals",
+    "description": "Express is a thin layer over HTTP. Know the protocol: methods, status codes, REST, CORS, cookies, and caching."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Phase 10 — DevOps & Deployment",
+  "position": 11,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 10 — DevOps & Deployment",
+    "description": "Ship it: environments, Docker, CI/CD, hosting options, and production hardening (health checks, graceful shutdown, monitoring)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Portfolio Projects",
+  "position": 12,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Portfolio Projects",
+    "description": "Four projects that prove you can build real Node.js backends — from a typed CRUD API to a production AI agent. Each one is designed to be shipped, documented, and shown off."
+  }
+}

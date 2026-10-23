@@ -1,0 +1,45 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 10px;
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: #fff;
+  background: linear-gradient(135deg, #5fa04e, #3c873a);
+  margin-bottom: 0.9rem;
+}
+.badgeAi {
+  background: linear-gradient(135deg, #8cc84b, #4a9d2f);
+}
+.badgeProjects {
+  background: linear-gradient(135deg, #2a5f28, #3c873a);
+}
+
+.cardTitle {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.cardDesc {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+  flex: 1 1 auto;
+}
+
+.cardArrow {
+  margin-top: 1rem;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--ifm-color-primary);
+}

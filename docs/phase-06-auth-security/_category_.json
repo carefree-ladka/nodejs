@@ -1,0 +1,10 @@
+{
+  "label": "Phase 6 — Auth & Security",
+  "position": 7,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 6 — Authentication & Security",
+    "description": "Secure who can do what: password hashing, sessions vs JWT, role-based authorization, and the security essentials every API needs."
+  }
+}

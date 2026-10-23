@@ -1,0 +1,10 @@
+{
+  "label": "Phase 5 — Databases",
+  "position": 6,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 5 — Databases",
+    "description": "Persist data for real. Learn one database well — SQL with Prisma or MongoDB with Mongoose — plus connections, relationships, and indexes."
+  }
+}

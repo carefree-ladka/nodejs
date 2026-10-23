@@ -1,0 +1,10 @@
+{
+  "label": "Phase 9 — Generative AI Engineering",
+  "position": 10,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 9 — Generative AI Engineering with Node.js",
+    "description": "Add AI as a capability on top of a solid backend: LLM API integration, embeddings & RAG, tool calling & agents, and production AI concerns. You do not need to train your own model to build useful AI products."
+  }
+}

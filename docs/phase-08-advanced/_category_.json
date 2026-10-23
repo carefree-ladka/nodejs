@@ -1,0 +1,10 @@
+{
+  "label": "Phase 8 — Advanced Topics",
+  "position": 9,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Phase 8 — Advanced Topics",
+    "description": "Round out a production-grade skill set: scalable API design, file uploads, caching, background jobs, real-time, docs, and TypeScript."
+  }
+}
