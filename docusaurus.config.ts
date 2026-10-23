@@ -16,14 +16,16 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://your-domain.example.com",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  url: "https://carefree-ladka.github.io",
+  // Set the /<baseUrl>/ pathname under which your site is served.
+  // For GitHub project pages it is '/<projectName>/'.
+  baseUrl: "/nodejs/",
+  trailingSlash: false,
 
   // GitHub pages deployment config.
-  organizationName: "your-org",
-  projectName: "nodejs-express-academy",
+  organizationName: "carefree-ladka", // GitHub org/user
+  projectName: "nodejs", // repo name
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
 
@@ -46,8 +48,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           routeBasePath: "/", // Serve the docs at the site's root
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/your-org/nodejs-express-academy/tree/main/",
+          editUrl: "https://github.com/carefree-ladka/nodejs/tree/main/",
         },
         blog: false,
         theme: {
